@@ -8,6 +8,7 @@
     "build": "rimraf dist && tsc"
   },
   "dependencies": {
+    "aws-sdk": "^2.246.1",
     "bcryptjs": "2.4.3",
     "graphql-yoga": "1.14.2",
     "jsonwebtoken": "8.2.1",
