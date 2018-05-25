@@ -28,5 +28,5 @@ type Category {
 
 type Image {
   id: ID! @unique
-  file: File
+  file: String!
 }
